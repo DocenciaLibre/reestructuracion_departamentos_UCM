@@ -1,0 +1,191 @@
+                                                                                 PROFESORES
+                                                         HORAS     PROFESORES        CON        PROFESORES
+                                                         CARGA    FUNCIONARIOS    CONTRATO          NO
+DEPARTAMENTO                                            LECTIVA    DE CARRERA     INDEFINIDO   PERMANENTES   QUINQUENIOS   SEXENIOS
+ALGEBRA                                                   4072         22                           4            106          58
+ANALISIS GEOGRAFICO REGIONAL Y GEOGRAFIA FISICA           4544         15             3             7            78           32
+ANALISIS MATEMATICO                                       4538         22             3             3            126          69
+ANATOMIA PATOLOGICA                                       2690         8                           14            41           21
+ANATOMIA Y ANATOMIA PATOLOGICA COMPARADAS                 2417         6              4             2            51           22
+ANATOMIA Y EMBRIOLOGIA HUMANA I                           1899         16                                        71           24
+ANATOMIA Y EMBRIOLOGIA HUMANA II                          3002         6              1             6            33           11
+ANTROPOLOGIA SOCIAL                                       5531         15             6             5            84           39
+ARQUITECTURA DE COMPUTADORES Y AUTOMATICA                 8720         26            17            10            122          80
+BIBLIOTECONOMIA Y DOCUMENTACION                           8096         19             5            20            73           24
+BIOLOGIA CELULAR                                          4001         12             1             4            40           29
+BIOLOGIA CELULAR (MORFOLOGIA MICROSCOPICA)                4518         16                           7            95           55
+BIOLOGIA VEGETAL I (BOTANICA Y FISIOLOGIA VEGETAL)        6294         16             3            12            105          42
+BIOLOGIA VEGETAL II                                       2690         15             3             2            78           39
+BIOQUIMICA Y BIOLOGIA MOLECULAR I                         8652         42             1             4            197         178
+BIOQUIMICA Y BIOLOGIA MOLECULAR II                        4229         16             3             3            93           56
+BIOQUIMICA Y BIOLOGIA MOLECULAR III                       5428         18                           4            101          65
+BIOQUIMICA Y BIOLOGIA MOLECULAR IV                        2703         13             2             2            64           50
+CIENCIA DE LOS MATERIALES E INGENIERIA METALURGICA        2916         13                           2            64           48
+CIENCIA POLITICA Y DE LA ADMINISTRACION I                 2717         9              3             4            49           11
+CIENCIA POLITICA Y DE LA ADMINISTRACION II                8020         19            12            17            119          31
+CIENCIA POLITICA Y DE LA ADMINISTRACION III               3188         6              4             7            38           21
+CIENCIAS Y TECNICAS HISTORIOGRAFICAS Y DE ARQUEOLOGIA     5426         10             4            12            35           22
+CIRUGIA I                                                22226         27                          117           101          55
+COMERCIALIZACION E INVESTIGACION DE MERCADO               7631         7              4            32            29           5
+COMUNICACION AUDIOVISUAL Y PUBLICIDAD I                   8247         21             4            19            113          28
+COMUNICACION AUDIVISUAL Y PUBLICIDAD II                   6230         17             7            12            83           31
+CRISTALOGRAFIA Y MINERALOGIA                              3392         14             1             4            74           46
+DERECHO ADMINISTRATIVO                                    5293         20             2            14            74           53
+DERECHO CIVIL                                             4982         29            16            12            171          62
+DERECHO CONSTITUCIONAL                                    6939         26             5            11            131          56
+DERECHO DEL TRABAJO Y DE LA SEGURIDAD SOCIAL             10570         16             3            21            63           35
+DERECHO ECLESIASTICO DEL ESTADO                           7564         10             1             3            51           28
+DERECHO FINANCIERO Y TRIBUTARIO                                  9220    10   2   10   37    26
+DERECHO INTERNACIONAL PUBLICO Y DERECHO INTERNACIONAL PRIVAD     2160    17   3   3    75    36
+DERECHO INTERNACIONAL PUBLICO Y RELACIONES INTERNACIONALES       4014    13   5   9    80    25
+DERECHO MERCANTIL                                                7289    20   5   15   77    44
+DERECHO PENAL                                                    4582    11   6   9    60    22
+DERECHO PROCESAL                                                 5728    18   2   8    54    37
+DERECHO ROMANO                                                   2169    10   2   1    44    19
+DIBUJO I (DIBUJO Y GRABADO)                                      7655    14   1   16   59    12
+DIBUJO II (DISEÑO E IMAGEN)                                      8460    15   1   19   69    25
+DIDACTICA DE LA EXPRESION PLASTICA                               4248    11   2   7    48    17
+DIDACTICA DE LA LENGUA Y LITERATURA                              5892    10   4   21   70    9
+DIDACTICA DE LAS CIENCIAS EXPERIMENTALES                         3033    8    4   11   47    21
+DIDACTICA DE LAS CIENCIAS SOCIALES                               4375    6        19   67    8
+DIDACTICA DE LAS MATEMATICAS                                     3901    10   1   6    53    6
+DIDACTICA Y ORGANIZACION ESCOLAR                                 7128    10   7   29   63    21
+ECOLOGIA                                                         4010    9    8   3    55    31
+ECONOMIA APLICADA I                                              4380    12   5   11   67    12
+ECONOMIA APLICADA II                                             3945    19   3   3    98    45
+ECONOMIA APLICADA III                                            2695    9    7   5    46    13
+ECONOMIA APLICADA IV                                             3710    12   3   5    65    16
+ECONOMIA APLICADA V                                              3425    12   3   3    64    11
+ECONOMIA APLICADA VI                                             2292    17   2   5    72    32
+ECONOMIA FINANCIERA Y CONTABILIDAD I                             4185    12   5   9    66    9
+ECONOMIA FINANCIERA Y CONTABILIDAD II                            7448    20   4   24   89    3
+ECONOMIA FINANCIERA Y CONTABILIDAD III                           4704    11   3   14   60    11
+EDAFOLOGIA                                                        927    5        2    26    5
+ENFERMERIA                                                       15074   35   6   95   170   17
+ESCULTURA                                                        6240    15   2   9    54    13
+ESTADISTICA E INVESTIGACION OPERATIVA I                          7385    22   5   15   119   54
+ESTADISTICA E INVESTIGACION OPERATIVA II (METODOS DE DECISION)   4702    6    3   17   39    5
+ESTADISTICA E INVESTIGACION OPERATIVA III                        3951    20   5   1    102   10
+ESTOMATOLOGIA I (PROTESIS BUCOFACIAL)                            6086    8    4   17   51    5
+ESTOMATOLOGIA II (ODONTOLOGIA CONSERVADORA)                      4193    9        18   42    2
+ESTOMATOLOGIA III (MEDICINA Y CIRUGIA BUCOFACIAL)                6123    13   2   27   66    23
+ESTOMATOLOGIA IV (PROFILAXIS, ODONTOPEDIATRIA Y ORTODONCIA)      8045    11   5   21   67    3
+ESTRATIGRAFIA                                                    3577    9    4   8    52    28
+ESTUDIOS ARABES E ISLAMICOS                                         2935    7    1    5    34    24
+ESTUDIOS HEBREOS Y ARAMEOS                                          2273    8    2    3    51    31
+EXPRESION MUSICAL Y CORPORAL                                        5870    9    2    25   44    8
+FARMACIA Y TECNOLOGIA FARMACEUTICA                                  7131    18   3    6    99    43
+FARMACOLOGIA                                                        5600    18   3    15   80    65
+FARMACOLOGIA (FARMACOGNOSIA Y FARMACOLOGIA EXPERIMENTAL)            4836    12   2    11   66    31
+FILOLOGIA ALEMANA                                                   4603    9    5    9    47    20
+FILOLOGIA ESPAÑOLA II (LITERATURA ESPAÑOLA)                         6636    27   2    9    147   103
+FILOLOGIA ESPAÑOLA III (LENGUA Y LITERATURA)                        3180    8    3    8    42    22
+FILOLOGIA ESPAÑOLA IV (BIBLIOGRAFIA ESPAÑOLA Y LITERATURA HISPAN    3068    11   3    2    45    29
+FILOLOGIA FRANCESA                                                  4457    16   1    7    76    36
+FILOLOGIA GRIEGA Y LINGUISTICA INDOEUROPEA                          4135    19   5         119   81
+FILOLOGIA INGLESA I (LENGUA Y LINGUISTICA INGLESA)                  11237   20   5    26   100   31
+FILOLOGIA INGLESA II (LITERATURA DE LOS PAISES DE LENGUA INGLESA)   4393    8    5    11   49    23
+FILOLOGIA ITALIANA                                                  2899    7    1    6    37    17
+FILOLOGIA LATINA                                                    4306    23   1    1    118   75
+FILOLOGIA ROMANICA, FILOLOGA ESLAVA Y LINGUISTICA GENERAL           8455    19   12   9    121   51
+FILOSOFIA DEL DERECHO MORAL Y POLITICA I                            5954    18   4    4    103   20
+FILOSOFIA DEL DERECHO MORAL Y POLITICA II (ETICA Y SOCIOLOGIA)      3167    7    1    7    43    19
+FILOSOFIA TEORÉTICA                                                 3841    15   1    3    60    41
+FISICA APLICADA I (TERMOLOGIA)                                      2294    11   1    4    56    33
+FISICA APLICADA III (ELECTRICIDAD Y ELECTRONICA)                    3211    19   2    2    92    73
+FISICA ATOMICA, MOLECULAR Y NUCLEAR                                 2576    14   1    5    65    58
+FISICA DE LA TIERRA, ASTRONOMIA Y ASTROFISICA I                     3558    21   3    5    99    52
+FISICA DE LA TIERRA, ASTRONOMIA Y ASTROFISICA II                    2141    14   1    1    57    47
+FISICA DE LOS MATERIALES                                            4553    25   6    2    98    100
+FISICA TEORICA I                                                    1691    11   1    2    64    50
+FISICA TEORICA II (METODOS MATEMATICOS DE LA FISICA)                2275    14   4         77    61
+FISIOLOGIA                                                          5702    17   7    4    111   81
+FISIOLOGIA (FISIOLOGIA ANIMAL II)                                   6999    16   2    4    94    61
+FISIOLOGIA (FISIOLOGIA ANIMAL)                                      3769    19   8    9    114   67
+FUNDAMENTOS DEL ANALISIS ECONOMICO I (ANALISIS ECONOMICO)           5657    24   4    11   123   36
+FUNDAMENTOS DEL ANALISIS ECONOMICO II (ECONOMIA CUANTITATIVA)       4865    18   7    6    75    39
+GENETICA                                                            4291    18   2    2    105   82
+GEODINAMICA                                                         6618    13   4    20   74    21
+GEOGRAFIA HUMANA                                                    4217    15   1    7    79    48
+GEOMETRIA Y TOPOLOGIA                                             3203    15   3    3     90    52
+HISTORIA ANTIGUA                                                  3015    11   1    3     57    34
+HISTORIA CONTEMPORANEA                                            4973    14   2    8     73    53
+HISTORIA DE AMERICA I                                             1905    8         3     41    24
+HISTORIA DE AMERICA II (ANTROPOLOGIA DE AMERICA)                  1754    6    2    3     31    21
+HISTORIA DE LA COMUNICACION SOCIAL                                3267    16   4    3     71    36
+HISTORIA DE LA FILOSOFÍA                                          3707    8    1    7     41    26
+HISTORIA DEL ARTE I (MEDIEVAL)                                    4479    11        12    40    17
+HISTORIA DEL ARTE II (MODERNO)                                    5905    19        7     101   63
+HISTORIA DEL ARTE III (CONTEMPORANEO)                             7525    24   3    6     110   64
+HISTORIA DEL DERECHO Y DE LAS INSTITUCIONES                       2595    14   2    1     78    25
+HISTORIA DEL PENSAMIENTO Y DE LOS MOVIMIENTOS SOCIALES Y POLITI   3340    14   2    2     69    47
+HISTORIA E INSTITUCIONES ECONOMICAS                               1700    10   1    3     57    27
+HISTORIA E INSTITUCIONES ECONOMICAS II (HISTORIA ECONOMICA)       1085    11              55    38
+HISTORIA MEDIEVAL                                                 2320    9    1    5     46    33
+HISTORIA MODERNA                                                  3232    16   2          75    59
+INGENIERIA DEL SOFTWARE E INTELIGENCIA ARTIFICIAL                 6459    16   18   7     67    39
+INGENIERIA QUIMICA                                                6516    24   5    12    122   96
+LENGUA ESPAÑOLA Y TEORIA DE LA LITERATURA Y LITERATURA COMPAR     7988    24   3    11    125   67
+LOGICA Y FILOSOFIA DE LA CIENCIA                                  2064    9         2     40    27
+MATEMATICA APLICADA                                               5813    24   5    9     122   64
+MATEMATICA APLICADA (BIOMATEMATICA)                               3122    10   1    9     50    14
+MEDICINA FISICA Y REHABILITACION, HIDROLOGIA MEDICA               8661    12   3    65    52    2
+MEDICINA                                                          28582   40   2    236   171   143
+MEDICINA PREVENTIVA Y SALUD PUBLICA. HISTORIA DE LA CIENCIA       5235    12   2    13    63    25
+MEDICINA Y CIRUGIA ANIMAL                                         10380   35   9    22    193   71
+METODOLOGIA DE LAS CIENCIAS DEL COMPORTAMIENTO                    4211    10   2    10    48    25
+METODOS DE INVESTIGACION Y DIAGNOSTICO EN EDUCACION               5775    12   4    20    64    28
+MICROBIOLOGIA I                                                   2990    7    2    7     29    32
+MICROBIOLOGIA II                                                  4214    16   1    4     67    43
+MICROBIOLOGIA III                                                 3993    13   2    6     54    42
+MUSICOLOGIA                                                       4357    9    4    2     33    30
+NUTRICION Y BROMATOLOGIA I (NUTRICION)                            6520    11   2    2     45    30
+NUTRICION Y BROMATOLOGIA II (BROMATOLOGIA)                        2973    9         7     62    25
+NUTRICION, BROMATOLOGIA Y TECNOLOGIA DE LOS ALIMENTOS             2856    18   2    7     91    75
+OBSTETRICIA Y GINECOLOGIA                                         6028    7         27    31    7
+OFTALMOLOGIA Y OTORRINOLARINGOLOGIA                               9041    15   1    35   50    30
+OPTICA                                                            5441    31   2    9    133   93
+OPTICA II (OPTOMETRIA Y VISION)                                   8586    15   12   16   93    15
+ORGANIZACION DE EMPRESAS                                          10857   15   7    39   65    17
+PALEONTOLOGIA                                                     3637    14   2    2    67    27
+PARASITOLOGIA                                                     2851    7    1    4    39    25
+PEDIATRIA                                                         24046   3         47   16    8
+PERIODISMO I (ANALISIS DEL MENSAJE INFORMATIVO)                   3315    8    4    5    31    17
+PERIODISMO II (ESTRUCTURA Y TECNOLOGIA DE LA INFORMACION)         5048    9    5    11   33    13
+PERIODISMO III (TEORIA GENERAL DE LA INFORMACION)                 4397    7    2    9    38    21
+PERIODISMO IV (EMPRESA INFORMATIVA)                               2220    4    4    5    31    3
+PERSONALIDAD, EVALUACION Y TRATAMIENTOS PSICOLOGICOS I            7247    23   6    34   127   62
+PERSONALIDAD, EVALUACION Y TRATAMIENTOS PSICOLOGICOS II           5360    11   7    8    77    29
+PETROLOGIA Y GEOQUIMICA                                           4546    17   5    5    97    53
+PINTURA (PINTURA Y RESTAURACION)                                  9300    20   5    15   89    26
+PREHISTORIA                                                       3005    15        1    73    62
+PRODUCCION ANIMAL                                                 8688    22   6    5    128   51
+PSICOBIOLOGIA                                                     4993    10   4    14   49    25
+PSICOLOGIA BASICA I (PROCESOS BASICOS)                            4018    14   1    5    62    26
+PSICOLOGIA BASICA II (PROCESOS COGNITIVOS)                        7954    19   8    25   102   44
+PSICOLOGIA EVOLUTIVA Y DE LA EDUCACION                            9291    16   7    34   110   32
+PSICOLOGIA SOCIAL                                                 6380    17   4    15   96    37
+PSIQUIATRIA                                                       1030    9         26   30    21
+QUIMICA ANALITICA                                                 6630    32   5    9    164   120
+QUIMICA FISICA I                                                  6727    35        1    182   143
+QUIMICA FISICA II (FISICO-QUIMICA FARMACEUTICA)                   2386    12   1    1    58    28
+QUIMICA INORGANICA I                                              6234    26   1    6    112   107
+QUIMICA INORGANICA Y BIOINORGANICA                                2566    13   2    3    66    39
+QUIMICA ORGANICA I                                                8328    39   8    3    189   143
+QUIMICA ORGANICA Y FARMACEUTICA                                   4445    14   3    3    81    36
+RADIOLOGIA Y MEDICINA FISICA (RADIOLOGIA)                         5516    12        39   69    39
+SANIDAD ANIMAL                                                    9132    38   1    9    159   132
+SISTEMAS INFORMATICOS Y COMPUTACION                               9333    25   21   10   126   71
+SOCIOLOGIA I (CAMBIO SOCIAL)                                      3260    16   1    2    73    41
+SOCIOLOGIA II (ECOLOGIA HUMANA Y POBLACION)                       2120    8    3    2    49    35
+SOCIOLOGIA III (ESTRUCTURA SOCIAL) (SOCIOLOGIA DE LA EDUCACION)   4298    13   3    7    73    30
+SOCIOLOGIA IV (METODOS INVESTIGACION Y TEORIA DE LA COMUNICACIO   8905   25   6   14   128   45
+SOCIOLOGIA V (TEORIA SOCIOLOGICA)                                 5195   17   4   8    84    37
+SOCIOLOGIA VI (OPINION PUBLICA Y CULTURA DE MASAS)                4875   14   4   11   85    46
+TEORÍA DEL CONOCIMIENTO, ESTÉTICA E Hª DEL PENSAMIENTO            4030   11       8    50    27
+TEORIA E HISTORIA DE LA EDUCACION                                 6191   18   3   12   87    35
+TOXICOLOGIA Y FARMACOLOGIA                                        8834   15   3   8    84    47
+TOXICOLOGIA Y LEGISLACION SANITARIA                               9125   9    2   27   39    5
+TRABAJO SOCIAL Y SERVICIOS SOCIALES                               6332   10   6   17   51    10
+ZOOLOGIA Y ANTROPOLOGIA FISICA                                    7517   24   3   15   173   85
+

@@ -1,0 +1,301 @@
+NUEVO DIBUJO
+    DIBUJO I                                 cambia su carga docente en un +6.02%
+
+    DIBUJO II                                cambia su carga docente en un -4.37%
+
+NUEVO ESCULTURA, PINTURA Y EXPRESION PLASTICA
+    ESCULTURA                                cambia su carga docente en un +14.54%
+
+    PINTURA                                  cambia su carga docente en un +0.08%
+
+    DIDACTICA DE LA EXPRESION PLASTICA       cambia su carga docente en un -14.51%
+
+COMUNICACION AUDIOVISUAL Y PUBLICIDAD
+    COMUNICACION AUDIOVISUAL Y PUBLICIDAD I  cambia su carga docente en un -7.93%
+
+    COMUNICACION AUDIOVISUAL Y PUBLICIDAD II cambia su carga docente en un +11.52%
+
+NUEVO PERIODISMO
+    PERIODISMO I                             cambia su carga docente en un +13.62%
+
+    PERIODISMO II                            cambia su carga docente en un -3.15%
+
+    PERIODISMO III                           cambia su carga docente en un -8.82%
+
+    PERIODISMO IV                            cambia su carga docente en un +2.79%
+
+NUEVO ESTRUCTURA E HISTORIA ECONOMICA
+    ECONOMIA APLICADA I                      cambia su carga docente en un +1.97%
+
+    ECONOMIA APLICADA II                     cambia su carga docente en un -7.42%
+
+    HISTORIA E INSTITUCIONES ECONOMICAS I    cambia su carga docente en un -3.24%
+
+    HISTORIA E INSTITUCIONES ECONOMICAS II   cambia su carga docente en un +20.86%
+
+NUEVO ECONOMIA FINANCIERA Y CONTABILIDAD
+    ECONOMIA FINANCIERA Y CONTABILIDAD I     cambia su carga docente en un -8.59%
+
+    ECONOMIA FINANCIERA Y CONTABILIDAD II    cambia su carga docente en un +1.93%
+
+    ECONOMIA FINANCIERA Y CONTABILIDAD III   cambia su carga docente en un +6.25%
+
+NUEVO FUNDAMENTOS DEL ANALISIS ECONOMICO
+    FUNDAMENTOS DEL ANALISIS ECONOMICO I     cambia su carga docente en un -5.03%
+
+    FUNDAMENTOS DEL ANALISIS ECONOMICO II    cambia su carga docente en un +6.6%
+
+NUEVO ORGANIZACION DE EMPRESAS Y MARKETING
+    COMERCIALIZACION E INVESTIGACION DE MERCADOS cambia su carga docente en un -1.66%
+
+    ORGANIZACION DE EMPRESAS                 cambia su carga docente en un +1.16%
+
+NUEVO ECOLOGIA, ZOOLOGIA Y ANTROP FISICA
+    ECOLOGIA                                 cambia su carga docente en un +12.86%
+
+    ZOOLOGIA Y ANTROPOLOGIA FISICA           cambia su carga docente en un -6.28%
+
+NUEVO FiSICA APLICADA Y ATOMICA
+    FISICA APLICADA I                        cambia su carga docente en un +3.08%
+
+    FISICA APLICADA III                      cambia su carga docente en un +7.82%
+
+    FISICA ATOMICA, MOLECULAR Y NUCLEAR      cambia su carga docente en un -11.83%
+
+NUEVO FISICA TEORICA, DE LA TIERRA, ASTRON. ASTROF.
+    FISICA DE LA TIERRA, ASTRON. ASTROF. I   cambia su carga docente en un +28.25%
+
+    FISICA DE LA TIERRA, ASTRON. ASTROF. II  cambia su carga docente en un +4.32%
+
+    FISICA TEORICA I                         cambia su carga docente en un -22.4%
+
+    FISICA TEORICA II                        cambia su carga docente en un -9.87%
+
+FISICA DE LOS MATERIALES
+    FISICA DE LOS MATERIALES                 cambia su carga docente en un -0.0%
+
+NUEVO GEODINAMICA; PETROLOGIA Y GEOQUIMICA
+    GEODINAMICA                              cambia su carga docente en un -10.58%
+
+    PETROLOGIA Y GEOQUIMICA                  cambia su carga docente en un +14.22%
+
+NUEVO CRISTALOGRAFIA, ESTRATIGRAFIA Y PALEONTOLOGIA
+    CRISTALOGRAFIA Y MINERALOGIA             cambia su carga docente en un +4.49%
+
+    ESTRATIGRAFIA                            cambia su carga docente en un -3.61%
+
+    PALEONTOLOGIA                            cambia su carga docente en un -0.56%
+
+NUEVO ANTROPOLOGIA Y PSICOLOGIA SOCIAL
+    ANTROPOLOGIA SOCIAL                      cambia su carga docente en un -2.9%
+
+    PSICOLOGIA SOCIAL                        cambia su carga docente en un +2.49%
+
+NUEVO CIENCIA POLITICA Y DE LA ADMINISTRACION
+    CIENCIA POLITICA Y DE LA ADMINISTRACION I cambia su carga docente en un -7.01%
+
+    CIENCIA POLITICA Y DE LA ADMINISTRACION II cambia su carga docente en un +4.93%
+
+    CIENCIA POLITICA Y DE LA ADMINISTRACION III cambia su carga docente en un +1.33%
+
+    HISTORIA DEL PENSAMIENTO Y MOVIMIENTOS SOCIALES Y POLITICOS cambia su carga docente en un -6.09%
+
+NUEVO SOCIOLOGIA Y TRABAJO SOCIAL
+    SOCIOLOGIA I                             cambia su carga docente en un +11.69%
+
+    SOCIOLOGIA II                            cambia su carga docente en un +26.69%
+
+    SOCIOLOGIA III                           cambia su carga docente en un +59.68%
+
+    TRABAJO SOCIAL Y SERVICIOS SOCIALES      cambia su carga docente en un -30.82%
+
+NUEVO MATEMATICAS
+    ALGEBRA                                  cambia su carga docente en un +5.55%
+
+    GEOMETRIA Y TOPOLOGIA                    cambia su carga docente en un -2.25%
+
+    ANALISIS MATEMATICO                      cambia su carga docente en un -3.63%
+
+NUEVO INGENIERIA QUIMICA Y METALURGICA
+    INGENIERIA QUIMICA                       cambia su carga docente en un -9.43%
+
+    C. MATERIALES E INGENIERIA METALURGICA   cambia su carga docente en un +29.85%
+
+QUIMICA ANALITICA
+    QUIMICA ANALITICA                        cambia su carga docente en un -0.0%
+
+DERECHO CONSTITUCIONAL
+    DERECHO CONSTITUCIONAL                   cambia su carga docente en un -0.0%
+
+DERECHO TRABAJO Y SEGURIDAD SOCIAL 
+    DERECHO TRABAJO Y SEGURIDAD SOCIAL       cambia su carga docente en un -0.0%
+
+DERECHO CIVIL
+    DERECHO CIVIL                            cambia su carga docente en un -0.0%
+
+NUEVO DERECHO PENAL Y PROCESAL
+    DERECHO PENAL                            cambia su carga docente en un -5.55%
+
+    DERECHO PROCESAL                         cambia su carga docente en un +5.46%
+
+NUEVO DERECHO ADMINISTRATIVO, FINANCIERO Y TRIBUTARIO Y MERCANTIL
+    DERECHO ADMINISTRATIVO                   cambia su carga docente en un -11.66%
+
+    DERECHO FINANCIERO Y TRIBUTARIO          cambia su carga docente en un +19.41%
+
+    DERECHO MERCANTIL                        cambia su carga docente en un +2.7%
+
+NUEVO ARQUEOLOGIA
+    HISTORIA ANTIGUA                         cambia su carga docente en un -14.4%
+
+    PREHISTORIA                              cambia su carga docente en un -9.55%
+
+    CIENCIAS Y TECNICAS HISTORIOGRAFICAS Y ARQUEOLOGIA cambia su carga docente en un +26.16%
+
+    HISTORIA MEDIEVAL                        cambia su carga docente en un -4.56%
+
+NUEVO HISTORIA DEL ARTE Y MUSICOLOGIA
+    HISTORIA DEL ARTE I                      cambia su carga docente en un -2.55%
+
+    HISTORIA DEL ARTE II                     cambia su carga docente en un -5.79%
+
+    HISTORIA DEL ARTE III                    cambia su carga docente en un +2.16%
+
+    MUSICOLOGIA                              cambia su carga docente en un +9.42%
+
+NUEVO HISTORIA DE AMERICA, MODERNA Y CONTEMPORANEA
+    HISTORIA DE AMERICA I                    cambia su carga docente en un +9.88%
+
+    HISTORIA DE AMERICA II                   cambia su carga docente en un +19.76%
+
+    HISTORIA CONTEMPORANEA                   cambia su carga docente en un -11.02%
+
+    HISTORIA MODERNA                         cambia su carga docente en un +2.12%
+
+NUEVO GEOGRAFIA FISICA Y HUMANA
+    ANALISIS GEOGRAFICO REGIONAL Y GEOGRAFIA FISICA cambia su carga docente en un -10.35%
+
+    GEOGRAFIA HUMANA                         cambia su carga docente en un +12.66%
+
+ENFERMERIA
+    ENFERMERIA                               cambia su carga docente en un -0.0%
+
+NUEVO ESTOMATOLOGIA
+    ESTOMATOLOGIA I                          cambia su carga docente en un +10.74%
+
+    ESTOMATOLOGIA II                         cambia su carga docente en un -18.3%
+
+    ESTOMATOLOGIA III                        cambia su carga docente en un +6.31%
+
+    ESTOMATOLOGIA IV                         cambia su carga docente en un +3.15%
+
+NUEVO PERSONALIDAD, EVALUACION Y TRAT. PSI.
+    PERSONALIDAD, EVALUACION Y TRAT. PSI. I  cambia su carga docente en un -3.31%
+
+    PERSONALIDAD, EVALUACION Y TRAT. PSI. II cambia su carga docente en un +8.19%
+
+NUEVO PSICOLOGIA BASICA
+    PSICOLOGIA BASICA I                      cambia su carga docente en un +2.33%
+
+    PSICOLOGIA BASICA II                     cambia su carga docente en un -1.12%
+
+NUEVO PSICOBIOLOGIA Y METODOLOGIA DE LAS CC. DEL COMPORTAMIENTO
+    METODOLOGIA DE LAS CC DEL COMPORTAMIENTO cambia su carga docente en un +1.94%
+
+    PSICOBIOLOGIA                            cambia su carga docente en un -1.6%
+
+NUEVO FILOSOFIA
+    HISTORIA DE LA FILOSOFIA                 cambia su carga docente en un +26.01%
+
+    TEORIA DEL CONOCIMIENTO, ESTETICA E HISTORIA DEL PENSAMIENTO cambia su carga docente en un -18.94%
+
+    FILOSOFIA TEORETICA                      cambia su carga docente en un -3.09%
+
+    LOGICA Y FILOSOFIA DE LA CIENCIA         cambia su carga docente en un +12.89%
+
+ARQUITECTURA COMPUTADORES Y AUTOMATICA
+    ARQUITECTURA COMPUTADORES Y AUTOMATICA   cambia su carga docente en un -0.0%
+
+INGENIERIA SOFTWARE E INT.ARTIF. -L.S.I.
+    INGENIERIA SOFTWARE E INT.ARTIF. -L.S.I. cambia su carga docente en un -0.0%
+
+SISTEMAS INFORMATICOS Y COMPUT. -LSICCIA
+    SISTEMAS INFORMATICOS Y COMPUT. -LSICCIA cambia su carga docente en un -0.0%
+
+METODOS DE INVESTIGACION, TEORIA, HISTORIA DE LA EDUCACION
+    METODOS DE INVESTIGACION Y DIAGNOSTICO EN EDUCACION cambia su carga docente en un +0.94%
+
+    TEORIA E HISTORIA DE LA EDUCACION        cambia su carga docente en un -9.32%
+
+NUEVO PSICOLOGIA EVOLUTIVA Y DE LA EDUCACION Y ORG ESCOLAR
+    DIDACTICA Y ORGANIZACION ESCOLAR         cambia su carga docente en un +6.22%
+
+    PSICOLOGIA EVOLUTICA Y DE LA EDUCACION   cambia su carga docente en un -4.48%
+
+NUEVO DIDACTICA
+    EXPRESION MUSICAL Y CORPORAL             cambia su carga docente en un -9.8%
+
+    DIDACTICA DE LAS CIENCIAS EXPERIMENTALES cambia su carga docente en un +7.56%
+
+    DIDACTICA DE LAS CIENCIAS SOCIALES       cambia su carga docente en un +3.01%
+
+    DIDACTICA DE LA LENGUA Y LA LITERATURA   cambia su carga docente en un +8.11%
+
+    DIDACTICA DE LAS MATEMATICAS             cambia su carga docente en un -5.35%
+
+MEDICINA Y CIRUGIA ANIMAL
+    MEDICINA Y CIRUGIA ANIMAL                cambia su carga docente en un -0.0%
+
+NUEVO SANIDAD Y PRODUCCION ANIMAL
+    PRODUCCION ANIMAL                        cambia su carga docente en un -20.67%
+
+    SANIDAD ANIMAL                           cambia su carga docente en un +22.86%
+
+CIRUGIA I
+    CIRUGIA                                  cambia su carga docente en un -0.0%
+
+NUEVO ESPECIALIDADES MEDICAS
+    OBSTETRICIA Y GINECOLOGIA                cambia su carga docente en un +28.65%
+
+    OFTALMOLOGIA Y OTORRINOLARINGOLOGIA      cambia su carga docente en un -6.33%
+
+    PEDIATRIA                                cambia su carga docente en un -2.26%
+
+    PSIQUIATRIA                              cambia su carga docente en un -4.36%
+
+NUEVO MEDICINA FISICA, PREVENTIVA Y RADIOLOGIA
+    MEDICINA FISICA Y REHABILITACION. HIDROLOGIA MEDICA cambia su carga docente en un -1.41%
+
+    MEDICINA PREVENTIVA, SALUD PUBLICA E HISTORIA DE LA CIENCIA cambia su carga docente en un -38.16%
+
+    RADIOLOGIA Y MEDICINA FISICA             cambia su carga docente en un +98.53%
+
+MEDICINA
+    MEDICINA                                 cambia su carga docente en un -0.0%
+
+NUEVO FILOLOGIA INGLESA
+    FILOLOGIA INGLESA I                      cambia su carga docente en un -5.5%
+
+    FILOLOGIA INGLESA II                     cambia su carga docente en un +15.92%
+
+NUEVO LENGUAS MODERNAS
+    FILOLOGIA ALEMANA                        cambia su carga docente en un -14.05%
+
+    FILOLOGIA FRANCESA                       cambia su carga docente en un +8.56%
+
+    FILOLOGIA ITALIANA                       cambia su carga docente en un +12.26%
+
+NUEVO FILOLOGIA CLASICA Y SEMITICA
+    ESTUDIOS ARABES E ISLAMICOS              cambia su carga docente en un +43.71%
+
+    ESTUDIOS HEBREOS Y ARAMEOS               cambia su carga docente en un +85.72%
+
+    FILOLOGIA GRIEGA Y LINGUISTICA INDOEUROPEA cambia su carga docente en un -10.82%
+
+    FILOLOGIA LATINA                         cambia su carga docente en un -22.53%
+
+NUEVO LINGUISTICA
+    FILOLOGIA ROMANICA, ESLAVA Y LINGUISTICA GENERAL cambia su carga docente en un +32.36%
+
+    LENGUA ESPANOLA, TEORIA DE LA LITERATURA Y LITERATURA COMPARADA cambia su carga docente en un -20.26%
+

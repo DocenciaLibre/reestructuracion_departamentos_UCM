@@ -1,0 +1,141 @@
+NUEVO ESTAD. E INV. OPERATIVA
+    ESTADISTICA E INVESTIG. OPERATIVA I      cambia su carga docente en un +15.63%
+
+    ESTADISTICA E INVESTIG. OPERATIVA II     cambia su carga docente en un -34.19%
+
+    ESTADISTICA E INVESTIG. OPERATIVA III    cambia su carga docente en un +34.26%
+
+NUEVO MATEMATICA APLICADA
+    MATEMATICA APLICADA                      cambia su carga docente en un -1.38%
+
+    MATEMATICA APLICADA II                   cambia su carga docente en un +3.1%
+
+NUEVO OPTICA
+    OPTICA                                   cambia su carga docente en un -13.07%
+
+    OPTICA II                                cambia su carga docente en un +14.92%
+
+NUEVO QUIMICA FISICA
+    QUIMICA FISICA I                         cambia su carga docente en un -0.41%
+
+    QUIMICA FISICA II                        cambia su carga docente en un +0.95%
+
+NUEVO QUIMICA INORGANICA Y BIOINORGANICA
+    QUIMICA INORGANICA I                     cambia su carga docente en un -0.33%
+
+    QUIMICA INORGANICA Y BIOINORGANICA       cambia su carga docente en un +0.6%
+
+NUEVO QUIMICA ORGANICA Y FARM
+    QUIMICA ORGANICA Y FARMACEUTICA          cambia su carga docente en un -32.21%
+
+    QUIMICA ORGANICA I                       cambia su carga docente en un +23.47%
+
+NUEVO BIOLOGIA VEGETAL
+    BIOLOGIA VEGETAL I                       cambia su carga docente en un -20.06%
+
+    BIOLOGIA VEGETAL II                      cambia su carga docente en un +23.08%
+
+    EDAFOLOGIA                               cambia su carga docente en un +93.99%
+
+NUEVO BIOLOGIA CELULAR
+    BIOLOGIA CELULAR II                      cambia su carga docente en un +10.37%
+
+    BIOLOGIA CELULAR I                       cambia su carga docente en un -19.98%
+
+    GENETICA                                 cambia su carga docente en un +12.69%
+
+NUEVO BIOQUIMICA Y BIOLOGIA MOLECULAR
+    BIOQUIMICA Y BIOLOGIA MOLECULAR I        cambia su carga docente en un +9.6%
+
+    BIOQUIMICA Y BIOLOGIA MOLECULAR II       cambia su carga docente en un -16.97%
+
+    BIOQUIMICA Y BIOLOGIA MOLECULAR III      cambia su carga docente en un -14.63%
+
+    BIOQUIMICA Y BIOLOGIA MOLECULAR IV       cambia su carga docente en un +31.14%
+
+NUEVO FISIOLOGIA Y FISIOLOGIA ANIMAL
+    FISIOLOGIA I                             cambia su carga docente en un -5.43%
+
+    FISIOLOGIA II                            cambia su carga docente en un -11.59%
+
+    FISIOLOGIA                               cambia su carga docente en un -5.43%
+
+NUEVO MICROBIOLOGIA
+    MICROBIOLOGIA I                          cambia su carga docente en un -21.83%
+
+    MICROBIOLOGIA II                         cambia su carga docente en un +2.61%
+
+    MICROBIOLOGIA III                        cambia su carga docente en un +18.76%
+
+    PARASITOLOGIA                            cambia su carga docente en un -22.95%
+
+NUEVO TOXICOLOGIA
+    TOXICOLOGIA Y FARMACOLOGIA               cambia su carga docente en un +28.34%
+
+    TOXICOLOGIA Y LEGISLACION SANITARIA      cambia su carga docente en un -20.59%
+
+NUEVO FARMACOLOGIA
+    FARMACOLOGIA                             cambia su carga docente en un +48.49%
+
+    FARMACOLOGIA II                          cambia su carga docente en un -27.33%
+
+    FARMACIA Y TECNOLOGIA FARMACEUTICA       cambia su carga docente en un -2.55%
+
+NUEVO NUTRICION Y BROMATOLOGIA
+    NUTRICION Y BROMATOLOGIA I               cambia su carga docente en un -10.05%
+
+    NUTRICION Y BROMATOLOGIA II              cambia su carga docente en un -16.39%
+
+    NUTRICION, BROMATOLOGIA Y TECNOL. ALIM.  cambia su carga docente en un +18.67%
+
+NUEVO ECONOMIA POLITICA Y HACIENDA PUBLICA
+    ECONOMIA APLICADA III                    cambia su carga docente en un +14.56%
+
+    ECONOMIA APLICADA IV                     cambia su carga docente en un -30.0%
+
+    ECONOMIA APLICADA V                      cambia su carga docente en un +6.89%
+
+    ECONOMIA APLICADA VI                     cambia su carga docente en un +35.69%
+
+NUEVO FILOLOGIA ESPANOLA
+    FILOLOGIA ESPANOLA II                    cambia su carga docente en un +19.49%
+
+    FILOLOGIA ESPANOLA III                   cambia su carga docente en un -38.46%
+
+    FILOLOGIA ESPANOLA IV                    cambia su carga docente en un +49.74%
+
+NUEVO DERECHO INT PUBLICO, PRIVADO Y RRII
+    DERECHO INTERNACIONA PUBLICO Y DERECHO INTERNACIONAL PRIVADO cambia su carga docente en un +9.45%
+
+    DERECHO INTERNACIONA PUBLICO Y RELACIONES INTERNACIONALES cambia su carga docente en un -6.72%
+
+NUEVO FILOSOFIA DEL DERECHO MORAL Y POLITICA E HISTORIA DEL DERECHO
+    FILOSOFIA DERECHO, MORAL Y POLITICA I    cambia su carga docente en un -19.61%
+
+    FILOSOFIA DERECHO, MORAL Y POLITICA II   cambia su carga docente en un +11.21%
+
+    DERECHO ECLESIASTICO DEL ESTADO          cambia su carga docente en un +26.51%
+
+    DERECHO ROMANO                           cambia su carga docente en un -14.57%
+
+    HISTORIA DEL DERECHO Y DE LAS INSTITUCIONES cambia su carga docente en un +28.34%
+
+NUEVO ANATOMIA
+    ANATOMIA Y EMBRIOLOGIA HUMANA            cambia su carga docente en un -17.68%
+
+    ANATOMIA PATOLOGICA                      cambia su carga docente en un +1.71%
+
+    ANATOMIA Y ANATOMIA PATOLOGICA COMPARADA cambia su carga docente en un +75.15%
+
+NUEVO SOCIOLOGIA
+    SOCIOLOGIA IV                            cambia su carga docente en un +14.65%
+
+    SOCIOLOGIA V                             cambia su carga docente en un -2.24%
+
+    SOCIOLOGIA VI                            cambia su carga docente en un -18.14%
+
+NUEVO BIBLIOTECONOMIA, DOCUMENTACION E HISTORIA DE  LA COMUNICACION
+    BIBLIOTECONOMIA Y DOCUMENTACION          cambia su carga docente en un +42.63%
+
+    HISTORIA DE LA COMUNICACION SOCIAL       cambia su carga docente en un -37.24%
+
