@@ -22,8 +22,45 @@
       <p>Presentamos algunos datos sobre la reestructuración de departamentos que se plantea hacer en la UCM.</p>
 
 <ol>
-<li>¿Cuánto se ahorra por la supresión de complementos de cargos departamentales?</li>
 <li>¿Cuántas horas se liberan al eliminar reducciones </li>
+</ol>
+
+<p>Primero habría que saber cuántas horas se imparten en total en la UCM. Para ello, podemos tomar como referencia este documento que se encuentra en <a href="https://www.ucm.es/plantilla-pdi">https://www.ucm.es/plantilla-pdi</a>
+Como es un poco pesado hacer el cálculo a partir del PDF, se ha hecho una <a href="https://github.com/DocenciaLibre/reestructuracion_departamentos_UCM/blob/master/plantilla.ipynb">hoja ipython</a> para calcularlo automáticamente. </p>
+
+<p>Según los datos proporcionados en la página de trasparencia, la UCM impartió 1.005.681 horas en un año (por el nombre del documento, parece ser que el 2014).  Para ver cuántas horas se liberan, tomemos como referencia el <a href="https://github.com/DocenciaLibre/reestructuracion_departamentos_UCM/blob/master/NUEVOS%20DEPARTAMENTOS%20Presentacio%CC%81n%203-5-2016.xlsx.pdf">documento</a> que se distribuyó desde el rectorado sobre la reestructuración. Según se indica en el mismo:</p>
+
+<ul>
+<li>departamentos con menos de 55 PTCE tendrán director con exención de 9 créditos y secretario con exención de 7 créditos.</li>
+<li>departamentos entre 55 y 75 PTCE tendrán además subdirector con exención de 8 créditos.</li>
+<li>departamentos com más de 75 PTCE tendrán exención adicional, director 12, subdirector 10 y secretario 9.</li>
+</ul>
+
+<p>Por tanto tendremos</p>
+
+<ul>
+<li>16 dptos. intrafacultaltivos con más de 75 PTCE y otros 4 interfacultativos: en total 20 nuevos departamentos.</li>
+<li>19 dptos. intrafacultativos entre 55 y 75 PTCE y otros 9 interfacultativos: en total 28 nuevos departamentos.</li>
+<li>los restantes 16 + 8 = 24 departamentos tienen menos de 55 PTCE.</li>
+</ul>
+
+<p>Por tanto la exención docente de los nuevos departamentos sería de
+20 * (12 + 10 + 9) + 28 * (9 + 8 + 7) + 24 * (9 + 7) = 1.676 créditos, lo que suponen 16.760 horas.</p>
+
+<p>La exención, hoy en día, de los 185 departamentos es de</p>
+
+<p>185 * (9 + 7)  = 2.960 créditos, con lo que liberamos 29.600 - 16.760 = 12.840 horas. Estas horas, respecto al total de la UCM suponen un incremento del</p>
+
+<p>100 * 12.840 / 1.005.681 &lt; 1.28 % del total.</p>
+
+<p>Respecto al ahorro económico por reducción de cargos, en los presupuestos UCM del 2015 se recoge un total de 1.978.497,93 euros por cargos académicos (capítulo 1, artículo 12.02). Esto entiendo que incluye también decanos, vicedecanos, rector y vicerrectores, etc: <a href="https://www.ucm.es/portaldetransparencia/relacion-de-cargos-y-su-retribucion-1">https://www.ucm.es/portaldetransparencia/relacion-de-cargos-y-su-retribucion-1</a></p>
+
+<p>Suponiendo que todo fuese sólo para directores y secretarios de departamento y que se consiga ahorrar un 60%, tal y como se proponen, lo cual es improbable teniendo en cuenta los nuevos subdirectores y que probablemente las retribuciones en los departamentos grandes serán mayores, tendríamos un ahorro de</p>
+
+<p>1.978.497,93 * 0.60 = 1.187.098,76 euros que, respecto al presupuesto total de la UCM, que en 2015 fue de  518.127.373,23 euros supone un ahorro &lt; 0,23%</p>
+
+<ol>
+<li>¿Cuánto se ahorra por la supresión de complementos de cargos departamentales?</li>
 </ol>
 
       <footer class="site-footer">
