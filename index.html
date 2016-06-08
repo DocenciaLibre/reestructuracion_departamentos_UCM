@@ -31,12 +31,12 @@
         <h2>
 <a id="en-cuánto-se-incrementa-la-capacidad-docente-de-la-ucm-al-reestructurar-los-departamentos" class="anchor" href="#en-cu%C3%A1nto-se-incrementa-la-capacidad-docente-de-la-ucm-al-reestructurar-los-departamentos" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>¿En cuánto se incrementa la capacidad docente de la UCM al reestructurar los departamentos?</h2>
 
-<p><strong>Respuesta:</strong> La capacidad docente aumenta aproximadamente un 1.28%.</p>
+<p><strong>Respuesta:</strong> La capacidad docente aumenta aproximadamente <del>un 1.28%</del> un 1.72%.</p>
 
 <p><strong>Justificación:</strong></p>
 
 <p>Primero habría que saber cuántas horas se imparten en total en la UCM. Para ello, podemos tomar como referencia este documento que se encuentra en <a href="https://www.ucm.es/plantilla-pdi">https://www.ucm.es/plantilla-pdi</a>
-Como es un poco pesado hacer el cálculo a partir del PDF, se ha hecho una <a href="https://github.com/DocenciaLibre/reestructuracion_departamentos_UCM/blob/master/plantilla.ipynb">hoja ipython</a> para calcularlo automáticamente. </p>
+Como es un poco pesado hacer el cálculo a partir del PDF, se ha hecho una <a href="https://github.com/DocenciaLibre/reestructuraciondepartamentosUCM/blob/master/ahorros_reestructuracion.ipynb">hoja ipython</a> para calcularlo automáticamente. </p>
 
 <p>Según los datos proporcionados en la página de trasparencia, la UCM impartió 1.005.681 horas en un año (por el nombre del documento, parece ser que el 2014).  Para ver cuántas horas se liberan, tomemos como referencia el <a href="https://github.com/DocenciaLibre/reestructuracion_departamentos_UCM/blob/master/NUEVOS%20DEPARTAMENTOS%20Presentacio%CC%81n%203-5-2016.xlsx.pdf">documento</a> que se distribuyó desde el rectorado sobre la reestructuración. Según se indica en el mismo:</p>
 
@@ -74,6 +74,19 @@ Como es un poco pesado hacer el cálculo a partir del PDF, se ha hecho una <a hr
 <pre><code>100 * 12.840 / 1.005.681 &lt; 1.28 % del total.
 </code></pre>
 
+<p><strong>AÑADIDO</strong>: Además, hay que tener en cuenta los sabáticos de los directores de departamento.</p>
+
+<p>Hemos supuesto que todos los directores y los subdirectores de los departamentos grandes (que tienen una exención de 10 créditos) tienen derecho a sabático, pero no así los subdirectores de departamentos "medianos", con 8 créditos de exención docente. No se sabe si esto será así, pero parece una suposición razonable, dado que la exención de un subdirector de departamento grande es mayor que la de un director actual, que sí disfruta de sabático. </p>
+
+<p>Hemos supuesto que los directores y subdirectores imparten 24 créditos y que toman un sabático después de cuatro años de cargo, lo que supone que un año de cada cinco hay un profesor por cada cargo departamental con derecho a sabático.
+Tenemos pues</p>
+
+<pre><code>sabaticos_liberados = 185 - (20 * 2 + 28 + 24)
+horas_liberadas_por_sabaticos = (sabaticos_liberados / 5.) * 240
+porcentaje_liberado_sabaticos = horas_liberadas_por_sabaticos / horas_totales * 100
+porcentaje_mejora_exenciones + porcentaje_liberado_sabaticos = 1.723878327223046
+</code></pre>
+
 <h2>
 <a id="cuánto-se-ahorra-por-la-supresión-de-complementos-de-cargos-departamentales" class="anchor" href="#cu%C3%A1nto-se-ahorra-por-la-supresi%C3%B3n-de-complementos-de-cargos-departamentales" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>¿Cuánto se ahorra por la supresión de complementos de cargos departamentales?</h2>
 
@@ -92,6 +105,23 @@ Es un ahorro de, a lo sumo, el 0.23% del presupuesto de la UCM del año 2015. </
 <p>que, respecto al presupuesto total de la UCM, que en 2015 fue de  518.127.373,23 euros supone un ahorro &lt; 0,23%</p>
 
 <p>No se tiene tampoco en cuenta en este dato que habrá nuevos subdirectores.</p>
+
+<h2>
+<a id="en-cuánto-mejora-la-capacidad-de-trabajo-del-pas-de-la-ucm" class="anchor" href="#en-cu%C3%A1nto-mejora-la-capacidad-de-trabajo-del-pas-de-la-ucm" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>¿En cuánto mejora la capacidad de trabajo del PAS de la UCM?</h2>
+
+<p><strong>Respuesta:</strong> El potencial de trabajo total del PAS aumenta aproximadamente un 2.54%</p>
+
+<p><strong>Justificación:</strong> </p>
+
+<p>La fusión de departamentos liberará apoyo administrativo de los departamentos, que podrá dedicarse a otras tareas. Los departamentos con menos de 80 PTCE contarán una persona de apoyo administrativo, mientras que los departamentos
+con 80 o más PTCE contarán con dos. Por tanto:</p>
+
+<pre><code>PAS_total = 2006 + 1853 = 3859
+PAS_liberado = 185 - (4 * 2 + 11 * 2 + 40 + 17) = 98
+porcentaje_mejora_PAS = PAS_liberado / PAS_total * 100 = 2.5395180098471104 
+</code></pre>
+
+<p>El total de PAS de la UCM (laboral + funcionario) aparece en los datos del <a href="https://www.ucm.es/portaldetransparencia/personal-de-administracion-y-servicios">portal de transparencia</a>.</p>
 
 <h2>
 <a id="en-qué-medida-se-equilibra-la-carga-docente-de-la-ucm-con-la-reestructuración" class="anchor" href="#en-qu%C3%A9-medida-se-equilibra-la-carga-docente-de-la-ucm-con-la-reestructuraci%C3%B3n" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>¿En qué medida se equilibra la carga docente de la UCM con la reestructuración?</h2>
